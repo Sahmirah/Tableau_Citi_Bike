@@ -1,5 +1,5 @@
 # Tableau Challenge: Citi Bike 
-Link to Tableau: https://public.tableau.com/shared/HD2CF5WGH?:display_count=n&:origin=viz_share_link 
+Link to Tableau: https://public.tableau.com/views/CitiBikeDataVisualization_16827487837230/CitiBike?:language=en-US&:display_count=n&:origin=viz_share_link 
 
 ## Challenge Description:
 
