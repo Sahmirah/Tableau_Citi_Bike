@@ -1,7 +1,7 @@
 # Tableau Challenge: Citi Bike 
-<br>
+Link to Tableau: https://public.tableau.com/shared/HD2CF5WGH?:display_count=n&:origin=viz_share_link 
 
-# Challenge Description:
+## Challenge Description:
 
 Congratulations on your new job! As the new lead analyst for the New York Citi BikeLinks to an external site. program, you are now responsible for overseeing the largest bike-sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
@@ -11,8 +11,28 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 <br>
 
-# Dashboard Topic: How did COVID-19 affect the usage of Citi Bikes in New Jersey? 
+## Dashboard Questions: 
+1. How did COVID-19 affect the usage of Citi Bikes in New Jersey? 
+2. Which gender used Citi Bike more? Male or Female?
+3. Which stations were the most popular for starting and ending rides?
+4. What was the total number of trips taken during this time?
+5. Were there more customers or subscribers?
 
+<br>
 
+## Analysis:
+
+The data shows that the onset of COVID-19 led to a sharp decline the overall usuage of Citi Bikes in March and April of 2022. During that the nation was under a stay-at-home order which is a leading factor as to why there were few customers/subscribers. There is a suprising result in May of 2022. The usuage of Citi Bikes jumps back to its normal numbers after experiencing a 2 month decline. 
+
+<br>
+
+## User Analysis Dashboard
+![User Analysis Dashboard](https://user-images.githubusercontent.com/118565186/235287598-f04c0174-c2f8-4e32-94f7-3c60804f8f6a.PNG)
+
+## Station Analysis Dashboard
+![Station Analysis Dashboard](https://user-images.githubusercontent.com/118565186/235287605-2433d37d-721c-4067-a38f-7d8de9b04eac.PNG)
+
+## Map Dashboard
+![Map Dashboard](https://user-images.githubusercontent.com/118565186/235287613-b36aa608-1711-4e96-8f6f-8d923a050a27.PNG)
 
 
